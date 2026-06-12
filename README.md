@@ -1,6 +1,6 @@
 # 🚀 Cybersecurity Interview Preparation Master Guide
 
-> A comprehensive cybersecurity and DevSecOps interview preparation repository containing 1,500+ curated questions and answers, testing methodologies, attack chains, tool-based discussions, and real-world scenarios for DevSecOps, AppSec, CloudSec, VAPT, API Security, and security engineering roles.
+> A comprehensive cybersecurity and DevSecOps interview preparation repository containing 2,200+ curated questions and answers, testing methodologies, attack chains, tool-based discussions, and real-world scenarios for DevSecOps, AppSec, CloudSec, VAPT, API Security, and security engineering roles.
 
 ![GitHub stars](https://img.shields.io/github/stars/JagdeepSinghCeh/secdevops-interview-prep?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/JagdeepSinghCeh/secdevops-interview-prep?style=for-the-badge)
@@ -44,6 +44,10 @@ The material starts from absolute fundamentals and progresses toward the level o
 | File Upload, XXE & Deserialization | ✅ Complete |
 | Business Logic & Race Conditions | ✅ Complete |
 | API Security | ✅ Complete |
+| Software Supply Chain, SBOM, SLSA & Signing | ✅ Complete |
+| Secure Code Review & Language Security | ✅ Complete |
+| Secrets, Cryptography, Database & Data Security | ✅ Complete |
+| Microservices & Serverless Security | ✅ Complete |
 | Burp Suite, ZAP, Nmap & Recon Tools | ✅ Complete |
 | SAST, DAST, SCA & Secret Scanning | ✅ Complete |
 | Jenkins, GitHub Actions, GitLab & Azure DevOps | ✅ Complete |
@@ -55,7 +59,7 @@ The material starts from absolute fundamentals and progresses toward the level o
 | Terraform, IaC & Policy as Code | ✅ Complete |
 | SIEM, Incident Response & Threat Modeling | ✅ Complete |
 | Vulnerability Management & Compliance | ✅ Complete |
-| Advanced Mock Interviews | 🚧 Expanding |
+| Advanced Mock Interviews | ✅ Complete |
 | Red Teaming & Active Directory | 📅 Planned |
 
 ---
@@ -80,6 +84,8 @@ The material starts from absolute fundamentals and progresses toward the level o
 * [Access Control And Injection Deep Q&A](outputs/17_ACCESS_CONTROL_INJECTION_DEEP_QA.md)
 * [Authentication, Sessions, JWT, CSRF And CORS](outputs/18_AUTH_SESSION_JWT_CSRF_CORS_QA.md)
 * [Server-Side And Business Logic Vulnerabilities](outputs/19_SERVER_SIDE_LOGIC_VULNERABILITIES_QA.md)
+* [Advanced API Security](outputs/23_API_SECURITY_ADVANCED_QA.md)
+* [Secure Code Review And Language-Specific Security](outputs/26_SECURE_CODE_REVIEW_LANGUAGE_QA.md)
 
 ## Cloud Security
 
@@ -98,6 +104,10 @@ The material starts from absolute fundamentals and progresses toward the level o
 * [CI/CD Platform Security](outputs/14_CICD_PLATFORM_SECURITY_QA.md)
 * [Security Scanner Tools](outputs/15_SECURITY_SCANNER_TOOLS_QA.md)
 * [Web Testing Tools](outputs/16_WEB_TESTING_TOOLS_QA.md)
+* [Software Supply Chain Security](outputs/24_SOFTWARE_SUPPLY_CHAIN_SECURITY_QA.md)
+* [Advanced Mock And Behavioral Interviews](outputs/25_ADVANCED_MOCK_BEHAVIORAL_INTERVIEWS.md)
+* [Secrets, Cryptography, Database And Data Security](outputs/27_SECRETS_CRYPTO_DATABASE_DATA_SECURITY_QA.md)
+* [Microservices And Serverless Security](outputs/28_MICROSERVICES_SERVERLESS_SECURITY_QA.md)
 
 ## Operations, Governance And Response
 
